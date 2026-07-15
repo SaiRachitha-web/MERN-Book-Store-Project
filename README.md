@@ -84,9 +84,3 @@ This export was rewritten from the original Replit TypeScript project:
   wired directly through an Axios request interceptor
   (`src/api/client.js`)
 
-All UI and functionality from the original app is preserved.
-## Google Drive Link
-
-Project Files / Documentation:
-
-https://drive.google.com/file/d/1FFpell7mIz_IXTDOzbjN3ZshDy81zy3J/view?usp=sharing
